@@ -17,8 +17,12 @@
   "contributes": {
     "commands": [
       {
-        "command": "family-guy-funny-moments.funnies",
-        "title": "need more stimulation 💀💀💀💀"
+        "command": "family-guy-funny-moments.funniesSide",
+        "title": "need more stimulation to the side💀💀💀💀"
+      },
+      {
+        "command": "family-guy-funny-moments.funniesBelow",
+        "title": "need more stimulation under my code💀💀💀💀"
       }
     ]
   },
